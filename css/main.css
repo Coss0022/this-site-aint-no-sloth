@@ -8,9 +8,25 @@ body {
   background-size: 48px auto;
 }
 
+.main {
+  background-color: #fff;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 36em
+  width: 100%;
+}
+
 h1 {
   font-family: Georgia, serif;
   color: #fff;
+  font-weight: bold;
+}
+
+.img-1,
+.img-2,
+.img-3 {
+  border-top: 2px solid rgb(123, 114, 107);
+  border-bottom: 2px solid rgb(123, 114, 107);
 }
 
 a {
